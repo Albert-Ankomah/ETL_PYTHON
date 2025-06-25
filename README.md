@@ -26,8 +26,9 @@ database:
   username: your_username
   password: your_password
 tables:
-  process: Keed.dbo.processStatus
-  winners: Keed.dbo.winners
+  process: processStatus_table
+  winners: winners_table
+  
 Set up the following directories:
 
 Save folder: C:/Users/albert.boateng/PycharmProjects/590 winners
